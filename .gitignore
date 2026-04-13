@@ -1,0 +1,33 @@
+# Generated project output (regenerate with generate_pages.py)
+my-video-guide/
+guide-content.json
+guide-design.yaml
+
+# Node modules
+node_modules/
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build outputs
+dist/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Temp
+tmp/
+*.tmp
